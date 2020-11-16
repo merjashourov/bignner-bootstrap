@@ -1,0 +1,27 @@
+header{
+    background: #e9ecef;
+}
+header p{
+    font-size: 18px;
+    color: #767676;
+}
+.img{
+    padding: 4px;
+}
+.img img{
+    height: 100%;
+}
+.title{
+    text-align: center;
+    background-color: silver;
+    padding: 10px 0;
+}
+.about{
+    padding: 10px 20px;
+}
+.skill{
+    padding: 10px 20px;
+}
+.Exprience{
+    padding: 10px 20px;
+}
